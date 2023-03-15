@@ -4,8 +4,7 @@
 [![pyinstaller](https://img.shields.io/badge/pyinstaller-%E2%AC%85-brightgreen)](https://github.com/pyinstaller/pyinstaller)  
 
 ## Features
-ブルアカのキャラクターたちのステータスやヘイローを覚えよう！的なヤツです
-自分用なので動けばいいの精神
+ブルアカのキャラクターたちのステータスやヘイローを覚えよう！的なヤツです。自分用なので動けばいいの精神。
 
 ## Develop Enviroment
 Python 3.9.6  
