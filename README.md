@@ -9,8 +9,5 @@
 Python 3.9.6  
 PyInstaller 4.5.1  
 
-## How To Use
-リリースからexeをダウンロードできます
-
 ## Author
 のーん(紫) / NoneViolet
